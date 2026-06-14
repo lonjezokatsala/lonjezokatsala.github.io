@@ -1,2 +1,2 @@
 # lonjezo_katsala
-Data Analytics Portfolio | E-Commerce Markdown Optimization &amp; Sentiment Diagnostic
+Detail-oriented and analytically driven professional with a solid background in digital banking operations, data reporting, and performance analytics. Experienced in extracting and transforming large datasets into decision-ready insights within live financial environments, I bring a unique combination of technical capability and corporate discipline. I am passionate about the intersection of finance and technology, and this portfolio documents my continuous evolution as a data professional. Ambitious, hardworking, and deeply committed to operational growth.
